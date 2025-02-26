@@ -1,2 +1,2 @@
 # Webhook
-Event based Real-time Communication
+Event based Asynchronous Communication
